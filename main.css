@@ -1,0 +1,158 @@
+#header{ 
+    width:820px;  
+    height:65px;  
+    background-color: #272727;
+    border:0.5px solid rgb(0, 0, 0);
+    border-radius:0 0 2px 2px;
+    left:0px;
+    top:0px;
+    position:fixed;
+    } 
+.block__header a{
+    display:flex;
+    justify-content: space-around;
+    color: rgba(175, 175, 175, 0.91);
+    position: absolute;
+    top:23px;
+    left:70px;
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.block__header2 a{
+    display:flex;
+    justify-content: space-around;
+    color: rgba(175, 175, 175, 0.91);
+    position: absolute;
+    top:23px;
+    left:200px;
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.block__header3 a{
+    display:flex;
+    justify-content: space-around;
+    color: rgba(175, 175, 175, 0.91);
+    position: absolute;
+    top:23px;
+    left:550px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    text-decoration: none;
+}
+.block__header4 a{
+    display:flex;
+    justify-content: space-around;
+    color: rgba(175, 175, 175, 0.91);
+    position: absolute;
+    top:23px;
+    left:700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    text-decoration: none;
+}
+.logo__img{
+    width:50px;
+    position: absolute;
+    top:3px;
+    left:380px;
+}
+.iphone__img{
+    width:400px;
+    position:absolute;
+    top:180px;
+    left:176px;
+}
+.iphone3__img{
+    width:226px;
+    position:absolute;
+    top:163px;
+    left:499px;
+}
+.iphone2__img{
+    width:290px;
+    position:absolute;
+    top:145px;
+    left:60px;
+}
+#iphone__text{
+    font-size:60px;
+    color:rgb(121, 33, 161);
+    position: absolute;
+    top:76px;
+    left:200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.iphone__predzakaz{
+    color:rgb(255, 255, 255);
+    width:100px;
+    text-shadow: 10px;
+    border:0px;
+    border-radius:15px;
+    padding:9px;
+    position:absolute;
+    top:421px;
+    left:357px;
+    background-color:rgb(128, 46, 165);
+    border-bottom: 0px;
+    text-decoration: none;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cena{
+    position: absolute;
+    top:148px;
+    left:380px;
+    font-style:normal;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.xar-ki{
+    position: absolute;
+    top:480px;
+    left:289px;
+    font-size:21px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.display{
+    position: absolute;
+    top:515px;
+    left:150px;
+}
+.chip{
+    position:absolute;
+    top:550px;
+    left:150px;
+}
+.camera{
+    position: absolute;
+    top:585px;
+    left:150px;
+}
+.batareya{
+    position: absolute;
+    top:620px;
+    left:150px;
+    
+}
+.os{
+    position: absolute;
+    top:655px;
+    left:150px;
+}
+.ves{
+    position: absolute;
+    top:690px;
+    left:150px;
+}
+.aiphon{
+    position: absolute;
+    top:515px;
+    width:100px;
+}
+.ssss{
+    position: absolute;
+    top:500px;
+}
